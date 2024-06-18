@@ -1,0 +1,2 @@
+# Automation
+start_automation
